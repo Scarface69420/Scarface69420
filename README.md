@@ -7,7 +7,7 @@
 [![Mail](https://img.shields.io/badge/-nixonkurian.nk@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/nixon-kurian-5438b320b/)](mailto:nixonkurian.nk@gmail.com)
 
 
-![Scarface's stats](https://github-readme-stats.vercel.app/api?username=Scarface69420&show_icons=true)
+<!-- ![Scarface's stats](https://github-readme-stats.vercel.app/api?username=Scarface69420&show_icons=true) -->
 
 ```
 
