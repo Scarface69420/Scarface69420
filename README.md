@@ -2,7 +2,19 @@
 
 I'm a Computer Science student who is passionate about solving problems, writing code, building applications and exploring new technologies.
 
->
+
+* I'm Currently learning server side programming, React Native 
+* I'm Working on something . . .
+* Want to explore ML, AI and cloud
+
+<br/>
+
+👇 Hit in your console or terminal 
+
+```bash
+npx nixonkurian
+```
+
 <br />
 
 ``` Java
@@ -42,7 +54,7 @@ public int getFibonacciNumber (int n) {
 [![Mail](https://img.shields.io/badge/-nixonkurian.nk@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/nixon-kurian-5438b320b/)](mailto:nixonkurian.nk@gmail.com) &nbsp;
 [![Dev](https://img.shields.io/badge/-scarface69420-black?style=flat-square&logo=dev.to)](https://dev.to/scarface69420) 
 
----
+
 
 <!-- ![Scarface's stats](https://github-readme-stats.vercel.app/api?username=Scarface69420&show_icons=true&theme=dark) -->
 
