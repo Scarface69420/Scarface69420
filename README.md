@@ -56,7 +56,7 @@ public int getFibonacciNumber (int n) {
 
 
 
-<!-- ![Scarface's stats](https://github-readme-stats.vercel.app/api?username=Scarface69420&show_icons=true&theme=dark) -->
+  ![Scarface's stats](https://github-readme-stats.vercel.app/api?username=Scarface69420&show_icons=true&theme=dark)
 
 
 
