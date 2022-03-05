@@ -2,6 +2,11 @@
 
 I'm a Computer Science student who is passionate about solving problems, writing code, building applications and exploring new technologies.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Scarface69420&label=Profile%20views&color=0e75b6&style=flat" alt="mszeles" /> </p>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Scarface69420" alt="mszeles" /></a> </p> -->
+
+<p align="left"> <a href="https://twitter.com/KurianNixon" target="blank"><img src="https://img.shields.io/twitter/follow/KurianNixon?logo=twitter&style=flat" width=175 alt="KurianNixon" /></a> </p>
 
 * I'm Currently learning server side programming, React Native 
 * I'm Working on something . . .
